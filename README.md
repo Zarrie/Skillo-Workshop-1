@@ -1,2 +1,3 @@
-# exercise-2
-Exercise 2
+# Exercise Library Project
+
+Skillo OOP Workshop
